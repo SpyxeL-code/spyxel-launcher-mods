@@ -1,0 +1,218 @@
+{
+  "schema": 1,
+  "updated": "2026-04-20T14:28:06.442Z",
+  "mc_version": "1.21.11",
+  "loader": "fabric",
+  "mods": [
+    {
+      "file": "BetterAnimalFeeding-1.21.11-Fabric-1.0.0.jar",
+      "size": 82503,
+      "sha256": "4eb432c74253c8483e3b564d43e852f68ff32fe0a3a0e65e9cd5805070865281",
+      "url": "https://raw.githubusercontent.com/SpyxeL-code/spyxel-launcher-mods/main/mods/BetterAnimalFeeding-1.21.11-Fabric-1.0.0.jar"
+    },
+    {
+      "file": "Essential_1-3-10-8_fabric_1-21-11.jar",
+      "size": 52323932,
+      "sha256": "0c9651a8b0deb41272afbdc6bacd194f2ec25748d39b2bb2a308f3c0ceb33465",
+      "url": "https://raw.githubusercontent.com/SpyxeL-code/spyxel-launcher-mods/main/mods/Essential_1-3-10-8_fabric_1-21-11.jar"
+    },
+    {
+      "file": "Gamma-Utils-2.5.10+mc1.21.11.jar",
+      "size": 102032,
+      "sha256": "90a1f671dd6fd784031b9d337c5966f77cdde991dada6296372f6fb4cbd1726f",
+      "url": "https://raw.githubusercontent.com/SpyxeL-code/spyxel-launcher-mods/main/mods/Gamma-Utils-2.5.10%2Bmc1.21.11.jar"
+    },
+    {
+      "file": "MouseTweaks-fabric-mc1.21.11-2.30.jar",
+      "size": 75618,
+      "sha256": "e6718c6f35f6435294632b68ef8f251fe680bcd5324ffb4943daa41390c1c3c6",
+      "url": "https://raw.githubusercontent.com/SpyxeL-code/spyxel-launcher-mods/main/mods/MouseTweaks-fabric-mc1.21.11-2.30.jar"
+    },
+    {
+      "file": "RoughlyEnoughItems-21.11.814-fabric.jar",
+      "size": 2469337,
+      "sha256": "691724fa549848658556a899dacf2bcb924968298bbd194294a20fe4b2e558d1",
+      "url": "https://raw.githubusercontent.com/SpyxeL-code/spyxel-launcher-mods/main/mods/RoughlyEnoughItems-21.11.814-fabric.jar"
+    },
+    {
+      "file": "WI-Zoom-1.7-MC1.21.11.jar",
+      "size": 151047,
+      "sha256": "5ad1432d2d0666fdbeb304a25af740682229de59568188f0f5390cbe419a7bb8",
+      "url": "https://raw.githubusercontent.com/SpyxeL-code/spyxel-launcher-mods/main/mods/WI-Zoom-1.7-MC1.21.11.jar"
+    },
+    {
+      "file": "appleskin-fabric-mc1.21.11-3.0.8.jar",
+      "size": 180107,
+      "sha256": "04fe837be8f10bb5e6b999238594466c59bdb641a54512f19f1e67241d882ae3",
+      "url": "https://raw.githubusercontent.com/SpyxeL-code/spyxel-launcher-mods/main/mods/appleskin-fabric-mc1.21.11-3.0.8.jar"
+    },
+    {
+      "file": "architectury-19.0.1-fabric.jar",
+      "size": 568474,
+      "sha256": "661395d6f0bef0d3a794e2db74df5600c7387ba6fb946b172315977201a667c7",
+      "url": "https://raw.githubusercontent.com/SpyxeL-code/spyxel-launcher-mods/main/mods/architectury-19.0.1-fabric.jar"
+    },
+    {
+      "file": "badpackets-fabric-0.11.2.jar",
+      "size": 54364,
+      "sha256": "9887b6b7bd22977e9aee24238687af89aba0d3e6619560dfd81f28085ee2a0ca",
+      "url": "https://raw.githubusercontent.com/SpyxeL-code/spyxel-launcher-mods/main/mods/badpackets-fabric-0.11.2.jar"
+    },
+    {
+      "file": "cloth-config-21.11.153-fabric.jar",
+      "size": 1148427,
+      "sha256": "8a40c84e5ecde525acfb6c4e13b8002dacfca3ef9534d7faf6e8049656f423c8",
+      "url": "https://raw.githubusercontent.com/SpyxeL-code/spyxel-launcher-mods/main/mods/cloth-config-21.11.153-fabric.jar"
+    },
+    {
+      "file": "continuity-3.0.1-beta.1+1.21.11.jar",
+      "size": 997125,
+      "sha256": "1d4d4e86fb20bd0b078fcc518f4641d21985cc8bfaefa6dd49cfa1beff52ac83",
+      "url": "https://raw.githubusercontent.com/SpyxeL-code/spyxel-launcher-mods/main/mods/continuity-3.0.1-beta.1%2B1.21.11.jar"
+    },
+    {
+      "file": "cwb-fabric-3.0.0-build.14+mc1.21.11 (1).jar",
+      "size": 78535,
+      "sha256": "6b45bbaa330321705dca8543a5dee53aefcbcc68c507f8ca8445a957d186e53f",
+      "url": "https://raw.githubusercontent.com/SpyxeL-code/spyxel-launcher-mods/main/mods/cwb-fabric-3.0.0-build.14%2Bmc1.21.11%20(1).jar"
+    },
+    {
+      "file": "elytrapitch-1.4.5.jar",
+      "size": 17970,
+      "sha256": "fec014bcccdbdb49b3dc55a756eb22f3cf13045caf07c198263e3cf15201cde5",
+      "url": "https://raw.githubusercontent.com/SpyxeL-code/spyxel-launcher-mods/main/mods/elytrapitch-1.4.5.jar"
+    },
+    {
+      "file": "entity_model_features_1.21.11-fabric-3.1.1.jar",
+      "size": 528110,
+      "sha256": "f9529d1eb86991efd9d66579320fc5cbc0a9c43d20d7942cddffe2387d22ee64",
+      "url": "https://raw.githubusercontent.com/SpyxeL-code/spyxel-launcher-mods/main/mods/entity_model_features_1.21.11-fabric-3.1.1.jar"
+    },
+    {
+      "file": "entity_texture_features_1.21.11-fabric-7.1.jar",
+      "size": 744971,
+      "sha256": "7c1a70766b31238eb636a5497b9f0c9c260d5ed94c0934c4cfd11b9a6854adaf",
+      "url": "https://raw.githubusercontent.com/SpyxeL-code/spyxel-launcher-mods/main/mods/entity_texture_features_1.21.11-fabric-7.1.jar"
+    },
+    {
+      "file": "entityculling-fabric-1.10.1-mc1.21.11.jar",
+      "size": 1585638,
+      "sha256": "ea8cb1bb11d9c752dfe0d4407f50c1ab64d67a48e67c2c013e08fa3da8a3b3a3",
+      "url": "https://raw.githubusercontent.com/SpyxeL-code/spyxel-launcher-mods/main/mods/entityculling-fabric-1.10.1-mc1.21.11.jar"
+    },
+    {
+      "file": "fabric-api-0.141.3+1.21.11.jar",
+      "size": 2412693,
+      "sha256": "86c453a86139662e775697d03b0ca7867f547374868c0cb3e3dc06f98dbfeef5",
+      "url": "https://raw.githubusercontent.com/SpyxeL-code/spyxel-launcher-mods/main/mods/fabric-api-0.141.3%2B1.21.11.jar"
+    },
+    {
+      "file": "fabric-elytra-autopilot-1.21.9-3.3.1.jar",
+      "size": 229045,
+      "sha256": "8e382ced4eadedfc620fb209b317d158cbf2a76d567f30231c791b00d883327f",
+      "url": "https://raw.githubusercontent.com/SpyxeL-code/spyxel-launcher-mods/main/mods/fabric-elytra-autopilot-1.21.9-3.3.1.jar"
+    },
+    {
+      "file": "ferritecore-8.2.0-fabric.jar",
+      "size": 80138,
+      "sha256": "f76bd760cbf48280cc7c43180f5089a46235fa24d934a8acf3da04a664c2c715",
+      "url": "https://raw.githubusercontent.com/SpyxeL-code/spyxel-launcher-mods/main/mods/ferritecore-8.2.0-fabric.jar"
+    },
+    {
+      "file": "iris-fabric-1.10.7+mc1.21.11.jar",
+      "size": 2807547,
+      "sha256": "58c55da18189c91a49f847d3cee451633a23b575fb69c0c5b65ddb274436cb19",
+      "url": "https://raw.githubusercontent.com/SpyxeL-code/spyxel-launcher-mods/main/mods/iris-fabric-1.10.7%2Bmc1.21.11.jar"
+    },
+    {
+      "file": "litematica-fabric-1.21.11-0.26.3.jar",
+      "size": 1816760,
+      "sha256": "ab703115039a5ee503f065cb5fe830db49beac9c4ec101943c9f533ebf3445fb",
+      "url": "https://raw.githubusercontent.com/SpyxeL-code/spyxel-launcher-mods/main/mods/litematica-fabric-1.21.11-0.26.3.jar"
+    },
+    {
+      "file": "lithium-fabric-0.21.4+mc1.21.11.jar",
+      "size": 900462,
+      "sha256": "5135c41da5b43cbdcb29424bde65195143ac4084e23834c8eac065942201c78b",
+      "url": "https://raw.githubusercontent.com/SpyxeL-code/spyxel-launcher-mods/main/mods/lithium-fabric-0.21.4%2Bmc1.21.11.jar"
+    },
+    {
+      "file": "malilib-fabric-1.21.11-0.27.8.jar",
+      "size": 1919538,
+      "sha256": "d4b05c8c26f43244b50b2c6833994226b60b36422a750d894d1027944346b154",
+      "url": "https://raw.githubusercontent.com/SpyxeL-code/spyxel-launcher-mods/main/mods/malilib-fabric-1.21.11-0.27.8.jar"
+    },
+    {
+      "file": "modmenu-17.0.0.jar",
+      "size": 1115809,
+      "sha256": "95f2c9571ca4a1e30d473783ed909c6b9d997b0b3e1418ea189cad73282c5128",
+      "url": "https://raw.githubusercontent.com/SpyxeL-code/spyxel-launcher-mods/main/mods/modmenu-17.0.0.jar"
+    },
+    {
+      "file": "reeses-sodium-options-fabric-2.0.3+mc1.21.11.jar",
+      "size": 104577,
+      "sha256": "ce9e2a07fb3d96dfa342a1f070b47c83d1df8cc437d18124cb1dd57674aba6dc",
+      "url": "https://raw.githubusercontent.com/SpyxeL-code/spyxel-launcher-mods/main/mods/reeses-sodium-options-fabric-2.0.3%2Bmc1.21.11.jar"
+    },
+    {
+      "file": "sodium-extra-fabric-0.8.3+mc1.21.11.jar",
+      "size": 394219,
+      "sha256": "bd634e73fec7c84b47bf3d5701495c6b7d5d4104b81a75cb453346e9c2c92009",
+      "url": "https://raw.githubusercontent.com/SpyxeL-code/spyxel-launcher-mods/main/mods/sodium-extra-fabric-0.8.3%2Bmc1.21.11.jar"
+    },
+    {
+      "file": "sodium-fabric-0.8.7+mc1.21.11.jar",
+      "size": 1870358,
+      "sha256": "c08fae86b350aaa8a8f37e7347929df38f01cc2348cf31c322615564bdc53983",
+      "url": "https://raw.githubusercontent.com/SpyxeL-code/spyxel-launcher-mods/main/mods/sodium-fabric-0.8.7%2Bmc1.21.11.jar"
+    },
+    {
+      "file": "voicechat-fabric-1.21.11-2.6.16.jar",
+      "size": 5573798,
+      "sha256": "fb1a5180caa6842a6d286ed3d838de74d90da1ecfb6991487caa4ec61007f340",
+      "url": "https://raw.githubusercontent.com/SpyxeL-code/spyxel-launcher-mods/main/mods/voicechat-fabric-1.21.11-2.6.16.jar"
+    },
+    {
+      "file": "voxy-0.2.13-alpha.jar",
+      "size": 12626870,
+      "sha256": "94716588678be7328887c6b7f3df52ae62dd8ad93b2368a4fa946c7dd7626af5",
+      "url": "https://raw.githubusercontent.com/SpyxeL-code/spyxel-launcher-mods/main/mods/voxy-0.2.13-alpha.jar"
+    },
+    {
+      "file": "voxy-server-side-fabric.jar",
+      "size": 211013,
+      "sha256": "f50a91702e21fdd64cc05f2fa05315135375ac1fa96a5d8e5db38d236ace1ab3",
+      "url": "https://raw.githubusercontent.com/SpyxeL-code/spyxel-launcher-mods/main/mods/voxy-server-side-fabric.jar"
+    },
+    {
+      "file": "wthit-1.21.11-fabric-18.2.2.jar",
+      "size": 909470,
+      "sha256": "17e233989c52b65fd958facbfb87ced5063d97baa53450a81c04affab3ff7bde",
+      "url": "https://raw.githubusercontent.com/SpyxeL-code/spyxel-launcher-mods/main/mods/wthit-1.21.11-fabric-18.2.2.jar"
+    },
+    {
+      "file": "xaerominimap-fabric-1.21.11-25.3.10.jar",
+      "size": 2151166,
+      "sha256": "ac0ad0f5ce318ec32872921303b031abfe348de14a886d20af919acf1ae524ed",
+      "url": "https://raw.githubusercontent.com/SpyxeL-code/spyxel-launcher-mods/main/mods/xaerominimap-fabric-1.21.11-25.3.10.jar"
+    },
+    {
+      "file": "xaeroworldmap-fabric-1.21.11-1.40.11.jar",
+      "size": 1434362,
+      "sha256": "f75e8b808b1a4f71761d3a15a216837d092aecce814e5be89de5d17b650d28fc",
+      "url": "https://raw.githubusercontent.com/SpyxeL-code/spyxel-launcher-mods/main/mods/xaeroworldmap-fabric-1.21.11-1.40.11.jar"
+    },
+    {
+      "file": "yet_another_config_lib_v3-3.8.2+1.21.11-fabric.jar",
+      "size": 1126948,
+      "sha256": "49c279bc28c80ca17d6c21c3dd299ec1c115b892272f21b3f034ed782829babd",
+      "url": "https://raw.githubusercontent.com/SpyxeL-code/spyxel-launcher-mods/main/mods/yet_another_config_lib_v3-3.8.2%2B1.21.11-fabric.jar"
+    },
+    {
+      "file": "yosbr-0.1.2.jar",
+      "size": 17373,
+      "sha256": "db4c744fd71f5617639cb0fdff72378b08d2852004f4045c62090de1bf53afcb",
+      "url": "https://raw.githubusercontent.com/SpyxeL-code/spyxel-launcher-mods/main/mods/yosbr-0.1.2.jar"
+    }
+  ]
+}
